@@ -10,7 +10,7 @@ class ChattyStudent < Student  #will inheret from Student class
     10.times do
     super
     
-    puts "Pick me!"
+  
   end
 
 end
