@@ -8,9 +8,9 @@ class ChattyStudent < Student  #will inheret from Student class
   
   def raise_hand
     10.times do
-    super
+      super
+    end
     
-  
   end
 
 end
