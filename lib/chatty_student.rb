@@ -16,7 +16,6 @@ class ChattyStudent < Student  #will inheret from Student class
     super
     super
     super
-    super
     puts "Pick me!"
   end
 
