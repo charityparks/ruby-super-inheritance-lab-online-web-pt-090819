@@ -8,14 +8,7 @@ class ChattyStudent < Student  #will inheret from Student class
   
   def raise_hand
     super
-    super
-    super
-    super
-    super
-    super
-    super
-    super
-    super
+    
     puts "Pick me!"
   end
 
